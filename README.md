@@ -17,7 +17,7 @@ KPIs used:
 
 More details can be found in the Jupyter Notebook.
 ## Data
-the data used in this project is sponsored by Starbucks. The total 120,000 records are collected and the data are divided in a 2:1 ratio and saved as two files: training set (training.csv) and test set (Test.csv).  
+the data used in this project is sponsored by Starbucks (using simulated but realistic data) . The total 120,000 records are collected and the data are divided in a 2:1 ratio and saved as two files: training set (training.csv) and test set (Test.csv).  
 
 The data generally include user id (int), promotion (yes/no), purchase (1/0) and seven unknown parameters. 
 ## Package Requirement
